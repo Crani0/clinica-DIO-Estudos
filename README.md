@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
@@ -72,3 +73,7 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
 Bora pra cima!
+=======
+# clinica-DIO-Estudos
+Programa primeiros passos em tecnologia -> Estruturando páginas Web com HTML ->  Criando o primeiro site com HTML.
+>>>>>>> upstream/main
