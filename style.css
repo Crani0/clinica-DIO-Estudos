@@ -1,0 +1,169 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(134, 211, 211);
+    margin-top: 20px;
+}
+.main {
+    display: flex;
+    flex-flow:column;
+    width:auto;
+    padding: 1rem;
+    border: 1px solid #090000;
+    border-radius: 0.25rem;
+}
+.menu {
+    width: 15%;
+    background-color: rgb(0, 191, 255);
+    padding: 10px 20px 0px;
+    line-height: 1.6em;
+}
+.header {
+    background-color: rgb(134, 211, 211);
+    min-height: 150px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    
+}
+.content {
+    background-color: rgb(192, 241, 233);
+    min-height: 300px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: justify;
+    margin-bottom: 20px;
+    padding: 1rem;
+  border: 1px solid #090000;
+  border-radius: 1rem;
+}
+.rodape {
+    background-color: rgb(141, 120, 212);
+    min-height: 150px;
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid #090000;
+    border-radius: 0.25rem;
+}
+
+footer {
+    background-color: rgb(141, 120, 212);
+    padding: 1px;
+    margin-top: 20px;
+    text-align: center;
+
+  }
+  
+  .footer h6 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .footer p {
+    font-size: 14px;
+    line-height: 1.1em;
+  }
+  
+  .footer .copyright {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  p{
+    text-indent: 5%;
+  }
+
+  table {
+    border: 1px solid black;
+    width: 500px;
+    height: 200px;
+  }
+  
+  th,
+  td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+
+  form {
+    width: 200px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #1e70bf;
+}
+
+.contentcontact {
+  padding: 1rem;
+  border: 1px solid #090000;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.contentcontact h3 {
+  margin-top: 0;
+}
+
+.contentcontact ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contentcontact li {
+  display: inline-block;
+  margin: 0 1rem;
+}
+
+.contentcontact a {
+  text-decoration: none;
+  color: #000;
+}
+
+.contentcontact a:hover {
+  color: #333;
+}
+.contentcontact {
+  background-color: rgb(192, 241, 233);
+  min-height: 300px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
